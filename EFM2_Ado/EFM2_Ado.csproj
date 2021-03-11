@@ -57,6 +57,12 @@
     <Compile Include="gestion_des_médecins.Designer.cs">
       <DependentUpon>gestion_des_médecins.cs</DependentUpon>
     </Compile>
+    <Compile Include="Gestion_Operation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gestion_Operation.Designer.cs">
+      <DependentUpon>Gestion_Operation.cs</DependentUpon>
+    </Compile>
     <Compile Include="Global.cs" />
     <Compile Include="Home.cs">
       <SubType>Form</SubType>
@@ -74,6 +80,9 @@
     </Compile>
     <EmbeddedResource Include="gestion_des_médecins.resx">
       <DependentUpon>gestion_des_médecins.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gestion_Operation.resx">
+      <DependentUpon>Gestion_Operation.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Home.resx">
       <DependentUpon>Home.cs</DependentUpon>

@@ -34,5 +34,11 @@ namespace EFM2_Ado
             Changer_Form(new recherche_médecin());
 
         }
+
+        private void gestionOperationToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+            Changer_Form(new Gestion_Operation());
+        }
     }
 }

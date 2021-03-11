@@ -31,6 +31,7 @@
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
             this.gestionDesMédecinsToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.rechercheDunMédecinToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.gestionOperationToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -38,7 +39,8 @@
             // 
             this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.gestionDesMédecinsToolStripMenuItem,
-            this.rechercheDunMédecinToolStripMenuItem});
+            this.rechercheDunMédecinToolStripMenuItem,
+            this.gestionOperationToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
             this.menuStrip1.Size = new System.Drawing.Size(800, 24);
@@ -58,6 +60,13 @@
             this.rechercheDunMédecinToolStripMenuItem.Name = "rechercheDunMédecinToolStripMenuItem";
             this.rechercheDunMédecinToolStripMenuItem.Size = new System.Drawing.Size(147, 20);
             this.rechercheDunMédecinToolStripMenuItem.Text = "recherche d’un médecin";
+            // 
+            // gestionOperationToolStripMenuItem
+            // 
+            this.gestionOperationToolStripMenuItem.Name = "gestionOperationToolStripMenuItem";
+            this.gestionOperationToolStripMenuItem.Size = new System.Drawing.Size(115, 20);
+            this.gestionOperationToolStripMenuItem.Text = "Gestion Operation";
+            this.gestionOperationToolStripMenuItem.Click += new System.EventHandler(this.gestionOperationToolStripMenuItem_Click);
             // 
             // Home
             // 
@@ -81,6 +90,7 @@
         private System.Windows.Forms.MenuStrip menuStrip1;
         private System.Windows.Forms.ToolStripMenuItem gestionDesMédecinsToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem rechercheDunMédecinToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem gestionOperationToolStripMenuItem;
     }
 }
 

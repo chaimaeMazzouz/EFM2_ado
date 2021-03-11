@@ -32,7 +32,7 @@ namespace EFM2_Ado
 
         private void textCIN_TextChanged(object sender, EventArgs e)
         {
-            this.medecinBindingSource.DataSource = $"subString(CIN,1,1)='{textCIN.Text}'";
+           // this.medecinBindingSource.DataSource = $"subString(CIN,1,1)='{textCIN.Text}'";
 
         }
     }
