@@ -1,0 +1,12 @@
+C:\Users\MZ\Desktop\Ado EFM practice\EFM2_Ado\EFM2_Ado\bin\Debug\EFM2_Ado.exe.config
+C:\Users\MZ\Desktop\Ado EFM practice\EFM2_Ado\EFM2_Ado\bin\Debug\EFM2_Ado.exe
+C:\Users\MZ\Desktop\Ado EFM practice\EFM2_Ado\EFM2_Ado\bin\Debug\EFM2_Ado.pdb
+C:\Users\MZ\Desktop\Ado EFM practice\EFM2_Ado\EFM2_Ado\obj\Debug\EFM2_Ado.csprojAssemblyReference.cache
+C:\Users\MZ\Desktop\Ado EFM practice\EFM2_Ado\EFM2_Ado\obj\Debug\EFM2_Ado.gestion_des_médecins.resources
+C:\Users\MZ\Desktop\Ado EFM practice\EFM2_Ado\EFM2_Ado\obj\Debug\EFM2_Ado.Home.resources
+C:\Users\MZ\Desktop\Ado EFM practice\EFM2_Ado\EFM2_Ado\obj\Debug\EFM2_Ado.Properties.Resources.resources
+C:\Users\MZ\Desktop\Ado EFM practice\EFM2_Ado\EFM2_Ado\obj\Debug\EFM2_Ado.csproj.GenerateResource.cache
+C:\Users\MZ\Desktop\Ado EFM practice\EFM2_Ado\EFM2_Ado\obj\Debug\EFM2_Ado.csproj.CoreCompileInputs.cache
+C:\Users\MZ\Desktop\Ado EFM practice\EFM2_Ado\EFM2_Ado\obj\Debug\EFM2_Ado.exe
+C:\Users\MZ\Desktop\Ado EFM practice\EFM2_Ado\EFM2_Ado\obj\Debug\EFM2_Ado.pdb
+C:\Users\MZ\Desktop\Ado EFM practice\EFM2_Ado\EFM2_Ado\obj\Debug\EFM2_Ado.recherche_médecin.resources
